@@ -1,0 +1,11 @@
+[
+{
+	"UniqueNumber": "1",
+	"Email": "123@mail.ru",
+	"Password": "123"
+},
+{
+	"UniqueNumber": "2",
+	"Email": "234@mail.ru",
+	"Password": "234"
+}]
